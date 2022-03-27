@@ -771,4 +771,5 @@ function aisa(){
     // return az
 }
 
+//hello
 // console.log("by scope", az)
